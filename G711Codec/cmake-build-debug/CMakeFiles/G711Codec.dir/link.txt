@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\G711Codec.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\G711Codec.dir/objects.a @CMakeFiles\G711Codec.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\G711Codec.dir/objects.a -Wl,--no-whole-archive  -o G711Codec.exe -Wl,--out-implib,libG711Codec.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\G711Codec.dir\linklibs.rsp

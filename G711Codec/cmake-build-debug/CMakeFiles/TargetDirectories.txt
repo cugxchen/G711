@@ -1,0 +1,3 @@
+C:/Users/909845/CLionProjects/G711Codec/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/909845/CLionProjects/G711Codec/cmake-build-debug/CMakeFiles/G711Codec.dir
+C:/Users/909845/CLionProjects/G711Codec/cmake-build-debug/CMakeFiles/edit_cache.dir

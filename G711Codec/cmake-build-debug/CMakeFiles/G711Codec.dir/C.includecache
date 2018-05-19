@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/909845/CLionProjects/G711Codec/src/Codec/G711/g711.c
+g711.h
+C:/Users/909845/CLionProjects/G711Codec/src/Codec/G711/g711.h
+
+C:/Users/909845/CLionProjects/G711Codec/src/Codec/G711/g711.h
+../../Public/Type.h
+C:/Users/909845/CLionProjects/G711Codec/src/Public/Type.h
+
+C:/Users/909845/CLionProjects/G711Codec/src/Public/Type.h
+
